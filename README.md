@@ -1,4 +1,4 @@
-# Ultimate Pass
+# Ultimate Pass (V 1.0.0.1, 06-NOV-2018)
 
 # ES
 UltimatePass es un administrador de contraseñas que NO requiere ningún tipo de registro ni conexión a Internet.
